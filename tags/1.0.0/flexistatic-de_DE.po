@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FlexiStatic v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-29 23:39+0000\n"
+"PO-Revision-Date: 2016-11-29 23:47:12+0000\n"
+"Last-Translator: admin3uu <support@3uu.net>\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: flexistatic.php:61
+#@ flexistatic
+msgid "IMPORTANT: Please DELETE ALL static posts/pages here BEFORE CHANGING the definition of permalinks!!!"
+msgstr "WICHTIG: Bitte entferne ALLL statischen Posts/Seiten BEVOR die Definition von Permalinks ge&auml;ndert wird!"
+
+#: flexistatic.php:67
+#@ flexistatic
+msgid "any title text"
+msgstr "beliebiger Text des Titels"
+
+#: flexistatic.php:68
+#@ flexistatic
+msgid "search posts"
+msgstr "suche Beitr&auml;ge"
+
+#: flexistatic.php:80
+#: flexistatic.php:102
+#: flexistatic.php:157
+#: flexistatic.php:248
+#@ flexistatic
+msgid "make static"
+msgstr "erzeuge statisch"
+
+#: flexistatic.php:85
+#: flexistatic.php:107
+#: flexistatic.php:161
+#: flexistatic.php:245
+#@ flexistatic
+msgid "remove static"
+msgstr "entferne statisch"
+
+#: flexistatic.php:98
+#@ flexistatic
+msgid "Make the start page static."
+msgstr "Erzeuge eine statische Startseite."
+
+#: flexistatic.php:113
+#@ flexistatic
+msgid "Make single posts static."
+msgstr "Erzeuge statische Artikel."
+
+#: flexistatic.php:237
+#@ flexistatic
+msgid "FlexiStatic"
+msgstr "FlexiStatic"
+
